@@ -76,9 +76,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@mipmap/transport"
-                android:paddingTop="28dp"
-                android:paddingLeft="28dp"
-                android:paddingRight="28dp"
+                android:paddingTop="32dp"
+                android:paddingLeft="32dp"
+                android:paddingRight="32dp"
                 android:layout_gravity="center"/>
             <TextView
                 android:layout_width="match_parent"
@@ -101,10 +101,10 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@mipmap/transport"
-                android:paddingTop="28dp"
-                android:paddingLeft="28dp"
-                android:paddingRight="28dp"
+                android:src="@mipmap/cost"
+                android:paddingTop="32dp"
+                android:paddingLeft="32dp"
+                android:paddingRight="32dp"
                 android:layout_gravity="center"/>
             <TextView
                 android:layout_width="match_parent"
@@ -126,10 +126,10 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@mipmap/transport"
-                android:paddingTop="28dp"
-                android:paddingLeft="28dp"
-                android:paddingRight="28dp"
+                android:src="@mipmap/hotels"
+                android:paddingTop="32dp"
+                android:paddingLeft="32dp"
+                android:paddingRight="32dp"
                 android:layout_gravity="center"/>
             <TextView
                 android:layout_width="match_parent"
@@ -165,10 +165,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/transport"
-                    android:paddingTop="28dp"
-                    android:paddingLeft="28dp"
-                    android:paddingRight="28dp"
+                    android:src="@mipmap/map"
+                    android:paddingTop="32dp"
+                    android:paddingLeft="32dp"
+                    android:paddingRight="32dp"
                     android:layout_gravity="center"/>
                 <TextView
                     android:layout_width="match_parent"
@@ -191,10 +191,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/transport"
-                    android:paddingTop="28dp"
-                    android:paddingLeft="28dp"
-                    android:paddingRight="28dp"
+                    android:src="@mipmap/weather"
+                    android:paddingTop="32dp"
+                    android:paddingLeft="32dp"
+                    android:paddingRight="32dp"
                     android:layout_gravity="center"/>
                 <TextView
                     android:layout_width="match_parent"
@@ -217,9 +217,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:src="@mipmap/transport"
-                    android:paddingTop="28dp"
-                    android:paddingLeft="28dp"
-                    android:paddingRight="28dp"
+                    android:paddingTop="32dp"
+                    android:paddingLeft="32dp"
+                    android:paddingRight="32dp"
                     android:layout_gravity="center"/>
                 <TextView
                     android:layout_width="match_parent"
@@ -256,9 +256,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:src="@mipmap/transport"
-                    android:paddingTop="28dp"
-                    android:paddingLeft="28dp"
-                    android:paddingRight="28dp"
+                    android:paddingTop="32dp"
+                    android:paddingLeft="32dp"
+                    android:paddingRight="32dp"
                     android:layout_gravity="center"/>
                 <TextView
                     android:layout_width="match_parent"
@@ -282,9 +282,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:src="@mipmap/transport"
-                    android:paddingTop="28dp"
-                    android:paddingLeft="28dp"
-                    android:paddingRight="28dp"
+                    android:paddingTop="32dp"
+                    android:paddingLeft="32dp"
+                    android:paddingRight="32dp"
                     android:layout_gravity="center"/>
                 <TextView
                     android:layout_width="match_parent"
@@ -307,9 +307,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:src="@mipmap/transport"
-                    android:paddingTop="28dp"
-                    android:paddingLeft="28dp"
-                    android:paddingRight="28dp"
+                    android:paddingTop="32dp"
+                    android:paddingLeft="32dp"
+                    android:paddingRight="32dp"
                     android:layout_gravity="center"/>
                 <TextView
                     android:layout_width="match_parent"
