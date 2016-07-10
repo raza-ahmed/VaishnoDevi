@@ -70,7 +70,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/custom_border"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:onClick="transportSec">
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -94,7 +95,8 @@
             android:layout_weight="1"
             android:divider="#b1b1b1"
             android:background="@drawable/custom_border"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:onClick="costSec">
 
             <ImageView
                 android:layout_width="match_parent"
@@ -107,7 +109,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Transport"
+                android:text="Cost"
                 android:gravity="center"
                 android:paddingBottom="20dp"/>
 
@@ -119,7 +121,8 @@
             android:layout_weight="1"
             android:divider="#b1b1b1"
             android:background="@drawable/custom_border"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:onClick="accommodationSec">
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -131,7 +134,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Transport"
+                android:text="Accomodation"
                 android:gravity="center"
                 android:paddingBottom="20dp"/>
 
@@ -157,7 +160,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@drawable/custom_border"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:onClick="mapSec">
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -169,7 +173,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Transport"
+                    android:text="Map"
                     android:gravity="center"
                     android:paddingBottom="20dp"/>
 
@@ -181,7 +185,8 @@
                 android:layout_weight="1"
                 android:divider="#b1b1b1"
                 android:background="@drawable/custom_border"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:onClick="weatherSec">
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -194,7 +199,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Transport"
+                    android:text="Weather"
                     android:gravity="center"
                     android:paddingBottom="20dp"/>
 
@@ -206,7 +211,8 @@
                 android:layout_weight="1"
                 android:divider="#b1b1b1"
                 android:background="@drawable/custom_border"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:onClick="checklistSec">
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -218,7 +224,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Transport"
+                    android:text="Checklist"
                     android:gravity="center"
                     android:paddingBottom="20dp"/>
 
@@ -244,7 +250,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@drawable/custom_border"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:onClick="storySec">
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -256,7 +263,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Transport"
+                    android:text="Story"
                     android:gravity="center"
                     android:paddingBottom="20dp"/>
 
@@ -268,7 +275,8 @@
                 android:layout_weight="1"
                 android:divider="#b1b1b1"
                 android:background="@drawable/custom_border"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:onClick="nearbySec">
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -281,7 +289,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Transport"
+                    android:text="Nearby"
                     android:gravity="center"
                     android:paddingBottom="20dp"/>
 
@@ -293,7 +301,8 @@
                 android:layout_weight="1"
                 android:divider="#b1b1b1"
                 android:background="@drawable/custom_border"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:onClick="storeSec">
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -305,7 +314,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Transport"
+                    android:text="Store"
                     android:gravity="center"
                     android:paddingBottom="20dp"/>
 
