@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_86a067640f330dd00602840cb224cdafff3dfdd7.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="81eeacbe1623cec2d9619a65e773a2a083612184">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/pre-dexed/debug/instant-run_975dd7e7decefa65aaea69952db9acffc47c2f4e.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_46d52ef6d6197c0810b20cb589ea1ccd2ad32799.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_134993a010dd39f75ee67705011e897f766bd245.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_6a8a596ebb7b07b3d5ac727765bec3281dba632b.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_ea3c0a133e09f408cc07c141e554a47e1ac624dd.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_336c35376f776b27427336506f26a2fcb4106070.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7e623d56d7a122a5a348e2812a55defa91e60b6b">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/VaishnoDevi/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_43b713022a655aa5542c7bb86c69bb46c763c134.jar" />
+    </item>
+
+</items>

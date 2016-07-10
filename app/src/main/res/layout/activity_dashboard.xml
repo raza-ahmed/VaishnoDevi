@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="in.myatra.vaishnodevi.Dashboard"
+    android:background="#F2F2F2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="#E0E082"
+        android:layout_marginBottom="5dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Set the wallpaer here"
+            android:gravity="center" />
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#E2E2E2"
+        android:layout_marginBottom="5dp"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Ad Section here"
+            android:gravity="center"
+            />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <!--Icons Outer layout starts here-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginBottom="5dp">
+
+
+
+    <!--Icons First Inner layout starts here-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/custom_border"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/transport"
+                android:paddingTop="28dp"
+                android:paddingLeft="28dp"
+                android:paddingRight="28dp"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Transport"
+                android:gravity="center"
+                android:paddingBottom="20dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:divider="#b1b1b1"
+            android:background="@drawable/custom_border"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/transport"
+                android:paddingTop="28dp"
+                android:paddingLeft="28dp"
+                android:paddingRight="28dp"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Transport"
+                android:gravity="center"
+                android:paddingBottom="20dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:divider="#b1b1b1"
+            android:background="@drawable/custom_border"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/transport"
+                android:paddingTop="28dp"
+                android:paddingLeft="28dp"
+                android:paddingRight="28dp"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Transport"
+                android:gravity="center"
+                android:paddingBottom="20dp"/>
+
+        </LinearLayout>
+        </LinearLayout>
+
+        <!--Icons First Inner layout ends here-->
+
+
+
+        <!--Icons Second Inner layout starts here-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/custom_border"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/transport"
+                    android:paddingTop="28dp"
+                    android:paddingLeft="28dp"
+                    android:paddingRight="28dp"
+                    android:layout_gravity="center"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Transport"
+                    android:gravity="center"
+                    android:paddingBottom="20dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:divider="#b1b1b1"
+                android:background="@drawable/custom_border"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/transport"
+                    android:paddingTop="28dp"
+                    android:paddingLeft="28dp"
+                    android:paddingRight="28dp"
+                    android:layout_gravity="center"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Transport"
+                    android:gravity="center"
+                    android:paddingBottom="20dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:divider="#b1b1b1"
+                android:background="@drawable/custom_border"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/transport"
+                    android:paddingTop="28dp"
+                    android:paddingLeft="28dp"
+                    android:paddingRight="28dp"
+                    android:layout_gravity="center"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Transport"
+                    android:gravity="center"
+                    android:paddingBottom="20dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <!--Icons Second Inner layout ends here-->
+
+
+
+        <!--Icons Third Inner layout starts here-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/custom_border"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/transport"
+                    android:paddingTop="28dp"
+                    android:paddingLeft="28dp"
+                    android:paddingRight="28dp"
+                    android:layout_gravity="center"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Transport"
+                    android:gravity="center"
+                    android:paddingBottom="20dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:divider="#b1b1b1"
+                android:background="@drawable/custom_border"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/transport"
+                    android:paddingTop="28dp"
+                    android:paddingLeft="28dp"
+                    android:paddingRight="28dp"
+                    android:layout_gravity="center"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Transport"
+                    android:gravity="center"
+                    android:paddingBottom="20dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:divider="#b1b1b1"
+                android:background="@drawable/custom_border"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/transport"
+                    android:paddingTop="28dp"
+                    android:paddingLeft="28dp"
+                    android:paddingRight="28dp"
+                    android:layout_gravity="center"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Transport"
+                    android:gravity="center"
+                    android:paddingBottom="20dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <!--Icons Third Inner layout ends here-->
+
+
+
+    </LinearLayout>
+        <!--Icons Outer Layout ends here-->
+
+    </ScrollView>
+
+
+</LinearLayout>
