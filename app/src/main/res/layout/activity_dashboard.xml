@@ -216,7 +216,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/transport"
+                    android:src="@mipmap/checklist"
                     android:paddingTop="32dp"
                     android:paddingLeft="32dp"
                     android:paddingRight="32dp"
@@ -255,7 +255,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/transport"
+                    android:src="@mipmap/story"
                     android:paddingTop="32dp"
                     android:paddingLeft="32dp"
                     android:paddingRight="32dp"
@@ -281,7 +281,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/transport"
+                    android:src="@mipmap/nearby"
                     android:paddingTop="32dp"
                     android:paddingLeft="32dp"
                     android:paddingRight="32dp"
@@ -306,7 +306,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/transport"
+                    android:src="@mipmap/store"
                     android:paddingTop="32dp"
                     android:paddingLeft="32dp"
                     android:paddingRight="32dp"
